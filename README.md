@@ -3,4 +3,4 @@ add another new string
 command list 
 first_branch
 
-check keys
+check keys gpg
