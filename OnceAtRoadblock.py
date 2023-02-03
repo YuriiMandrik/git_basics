@@ -4,7 +4,7 @@
 import random
 
 GREETENG = ["Теробора України !!! Стій! Хто Іде? Ану переклади пароль з англійської"]
-PASSWORD = ["hedgehog", "heaver", "eagle", "deer", "snake", "goose", "hare", "monkey", "dove", "turtle"]
+PASSWORD = ["hedgehog", "swan", "falcon", "ant-eater", "snake", "swallow", "hare", "bear", "squirrel", "rhinoceros"]
 N_DIALOG = ["Шо мовчиш?, москаль чи шо?", "Ану кажи пароль", "Микола, стрельни йому під ноги", "Ти шо німий?"]
 NO_DIALOG = ["Підіймай руки і йди сюди, якщо не німий, то ми тебе розговоримо"]
 UA_DIALOG = ["Вітаємо Козаче, Слава Україні!!!"]
