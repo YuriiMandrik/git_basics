@@ -1,0 +1,15 @@
+initial_sum=5000
+percent=9
+fixed_period=1
+set_period=3
+
+One month yield: 454.17
+One year yield: 5450.00
+Five year yield: 7693.12
+Ten year yield: 11836.82
+Set period yield: 6475.15
+One month yield: 454.17
+One year yield: 5450.00
+Five year yield: 7693.12
+Ten year yield: 11836.82
+Set period yield: 6475.15
